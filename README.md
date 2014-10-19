@@ -1,7 +1,7 @@
 My ToDo
 =======
 
-This is a tutorial result of Yeoman experiment. You also can try it on: [CodeLab](http://yeoman.io/codelab.html)!
+This is a tutorial result of Yeoman experiment. You also can try it: [CodeLab](http://yeoman.io/codelab.html)!
 
 ## Demo
 
