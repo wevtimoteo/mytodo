@@ -32,7 +32,7 @@ grunt serve
 To Deploy:
 
 ``
-grun serve:dist
+grunt serve:dist
 ``
 
 This will compile everything to production.
